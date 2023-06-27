@@ -1,0 +1,19 @@
+Mini-systeme de commentaire permetttant à l'utilisateur de :
+-S'inscrire
+-Se connecter
+-Se deconnecter
+-Voir l'utlisateur connecter
+-Notification qui indique si les information entrées sont corrects
+-Verification et recuperation des informations de l'utilisateur connectée
+-Ajouter, Modifier, supprimer des commentaires
+
+
+Le node module a été supprimer pour lancer projet veuillez exécuter les commande suivante
+
+Installation de dependance
+-npm install ou yarn 
+
+Execution du projet 
+
+-Front end
+yarn dev ou quasar dev 
